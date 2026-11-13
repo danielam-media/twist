@@ -30,6 +30,7 @@ body {
 
 .page-title {
   color: rgb(212, 166, 255);
+  text-align: center;
   -webkit-text-stroke: white 1px;
   text-align: center;
   margin-top: 30px;
