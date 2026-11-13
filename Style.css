@@ -1,5 +1,4 @@
-
-  /*font */
+/* font */
 @font-face {
   font-family: 'Sniglet';
   src: url('Sniglet/Sniglet-Regular.ttf') format('truetype');
@@ -15,24 +14,22 @@
 }
 
 body {
-padding-top: 100px;
-margin: 0;
-font-family: 'Sniglet', sans-serif;
-/*background image */
-background-image: url("images/BGpic2.jpg");
-background-size: cover;
-background-position: center;
-background-repeat: no-repeat;
-background-attachment: fixed;
-min-height: 100vh;
+  padding-top: 100px; 
+  margin: 0;
+  font-family: 'Sniglet', sans-serif;
+  background-image: url("images/BGpic2.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  min-height: 100vh;
 }
 
 .page-title {
   color: rgb(212, 166, 255);
-  text-align: center;
   -webkit-text-stroke: white 1px;
   text-align: center;
-  margin-top: 30px;
+  margin-top: 0;
   margin-bottom: 20px;
   font-weight: 800;
   font-size: 65px;
@@ -50,24 +47,24 @@ min-height: 100vh;
 }
 
 h1 {
-color: rgb(212, 166, 255);
--webkit-text-stroke: white 1px;
-text-align: center;
-margin-top: 30px;
-font-weight: 800;
-font-size: 50px;
+  color: rgb(212, 166, 255);
+  -webkit-text-stroke: white 1px;
+  text-align: center;
+  margin-top: 30px;
+  font-weight: 800;
+  font-size: 50px;
 }
 
 p {
-color: rgb(39, 34, 44);
-line-height: 30px;
-font-weight: 400;
-font-size: 30px;
+  color: rgb(39, 34, 44);
+  line-height: 30px;
+  font-weight: 400;
+  font-size: 30px;
 }
 
 ul {
   color: rgb(39, 34, 44);
-  line-height: 30px;
+  line-height: 36px;
   font-weight: 400;
   font-size: 30px;
 }
@@ -88,6 +85,3 @@ a:focus-visible {
   color: #c588ff;
   text-decoration: underline;
 }
-
-
-
