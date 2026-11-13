@@ -49,6 +49,20 @@ min-height: 100vh;
   flex: 1;
 }
 
+.border-demo {
+  background-color: #f3e5ff;
+  border: 6px dashed #9b31fd;
+  padding: 25px;
+  border-radius: 10px;
+}
+
+.border-demo p {
+  margin: 0;                      /* Removes default paragraph spacing so padding looks even */
+  font-size: 24px;
+  text-align: center;
+}
+
+
 h1 {
 color: rgb(212, 166, 255);
 -webkit-text-stroke: white 1px;
