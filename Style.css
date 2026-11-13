@@ -15,19 +15,17 @@
 }
 
 body {
-      padding-top: 250px;
-      margin: 0;
-      font-family: 'Sniglet', sans-serif;
-      
-      /*background image */
-
-      background-image: url("images/BGpic2.jpg");
-      background-size: cover;
-      background-position: center;
-      background-repeat: no-repeat;
-      background-attachment: fixed;
-      min-height: 100vh;
-    }
+padding-top: 100px;
+margin: 0;
+font-family: 'Sniglet', sans-serif;
+/*background image */
+background-image: url("images/BGpic2.jpg");
+background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+background-attachment: fixed;
+min-height: 100vh;
+}
 
 .page-title {
   color: rgb(212, 166, 255);
