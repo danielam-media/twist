@@ -28,6 +28,16 @@ body {
       min-height: 100vh;
     }
 
+.page-title {
+  color: rgb(212, 166, 255);
+  -webkit-text-stroke: white 1px;
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 20px;
+  font-weight: 800;
+  font-size: 65px;
+}
+
 .columns-container {
   display: flex;
   justify-content: space-between;
