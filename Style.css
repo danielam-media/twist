@@ -27,7 +27,17 @@ body {
       background-attachment: fixed;
       min-height: 100vh;
     }
-    
+
+.columns-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  padding: 40px;
+}
+
+.column {
+  flex: 1;
+}
 
 h1 {
 color: rgb(212, 166, 255);
