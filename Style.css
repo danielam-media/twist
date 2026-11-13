@@ -41,8 +41,6 @@ font-size: 50px;
 p {
 color: rgb(39, 34, 44);
 line-height: 30px;
-column-count: 3;
-column-gap: 60px;
 font-weight: 400;
 font-size: 30px;
 margin-left: 500px;
@@ -53,6 +51,17 @@ section {
   padding: 30px;
 }
 
+a {
+  color: #9b31fd;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover,
+a:focus-visible {
+  color: #c588ff;
+  text-decoration: underline;
+}
 
 
 
