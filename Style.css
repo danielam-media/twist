@@ -99,6 +99,7 @@ a {
 
 a:hover,
 a:focus-visible {
+  background-color: #9b31fd;
   color: #c588ff;
   text-decoration: underline;
 }
