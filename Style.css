@@ -92,7 +92,7 @@ section {
 }
 
 a {
-  background-color: #9b31fd;
+  color: #9b31fd;
   text-decoration: none;
   transition: color 0.2s ease;
 }
