@@ -57,9 +57,9 @@ min-height: 100vh;
 }
 
 .border-demo p {
-  margin: 0;                      /* Removes default paragraph spacing so padding looks even */
-  font-size: 24px;
-  text-align: center;
+  margin: 0;
+  width: 200px; 
+  height: 100px;
 }
 
 
@@ -92,7 +92,7 @@ section {
 }
 
 a {
-  color: #9b31fd;
+  background-color: #9b31fd;
   text-decoration: none;
   transition: color 0.2s ease;
 }
