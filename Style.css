@@ -15,6 +15,7 @@
 }
 
 body {
+cursor: url('images/custom-cursor.png'), auto;
 padding-top: 100px;
 margin: 0;
 font-family: 'Sniglet', sans-serif;
